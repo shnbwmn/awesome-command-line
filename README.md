@@ -1,2 +1,6 @@
-# awesome-command-line
-Curated list of awesome command-line apps
+
+# Awesome Command-Line
+
+> Curated list of awesome command-line apps.
+
+
