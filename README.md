@@ -3,4 +3,5 @@
 
 > Curated list of awesome command-line apps.
 
+http://www.bulkrenameutility.co.uk/Command.php
 
